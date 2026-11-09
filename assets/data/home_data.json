@@ -1,0 +1,120 @@
+{
+  "user": {
+    "name": "ABDALLAH",
+    "tagLine": "Learn something new every day"
+  },
+
+  "skills": [
+    "UI/UX",
+    "Website Design",
+    "Figma",
+    "Animation",
+    "User Persona",
+    "XD",
+    "Flutter",
+    "Cyber Security",
+    "Networking"
+  ],
+
+  "continueWatching": [
+    {
+      "id": "cw1",
+      "title": "Flutter for Beginners",
+      "instructor": "Ahmed Ali",
+      "imageUrl": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+      "rating": 4.7,
+      "progress": 0.6
+    },
+    {
+      "id": "cw2",
+      "title": "UI/UX Design Basics",
+      "instructor": "Lara Hassan",
+      "imageUrl": "https://images.pexels.com/photos/196646/pexels-photo-196646.jpeg",
+      "rating": 4.8,
+      "progress": 0.3
+    },
+    {
+      "id": "cw3",
+      "title": "Cyber Security Fundamentals",
+      "instructor": "Eng. Abdallah",
+      "imageUrl": "https://images.pexels.com/photos/5380642/pexels-photo-5380642.jpeg",
+      "rating": 4.6,
+      "progress": 0.4
+    },
+    {
+      "id": "cw4",
+      "title": "Networking Basics (CCNA)",
+      "instructor": "Mohammad Y.",
+      "imageUrl": "https://images.pexels.com/photos/2881232/pexels-photo-2881232.jpeg",
+      "rating": 4.5,
+      "progress": 0.2
+    },
+    {
+      "id": "cw5",
+      "title": "Advanced Flutter Layouts",
+      "instructor": "Sara Khaled",
+      "imageUrl": "https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg",
+      "rating": 4.9,
+      "progress": 0.1
+    },
+    {
+      "id": "cw6",
+      "title": "UX Research & Personas",
+      "instructor": "Nour Hasan",
+      "imageUrl": "https://images.pexels.com/photos/3184635/pexels-photo-3184635.jpeg",
+      "rating": 4.4,
+      "progress": 0.5
+    }
+  ],
+
+  "trending": [
+    {
+      "id": "tr1",
+      "title": "Ethical Hacking Basics",
+      "instructor": "Ahmad Z.",
+      "imageUrl": "https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg",
+      "rating": 4.9,
+      "progress": 0.0
+    },
+    {
+      "id": "tr2",
+      "title": "Mobile App UI with Figma",
+      "instructor": "Rama Saleh",
+      "imageUrl": "https://images.pexels.com/photos/6476582/pexels-photo-6476582.jpeg",
+      "rating": 4.7,
+      "progress": 0.0
+    },
+    {
+      "id": "tr3",
+      "title": "Flutter + Firebase Complete Guide",
+      "instructor": "Omar Khalil",
+      "imageUrl": "https://images.pexels.com/photos/6169056/pexels-photo-6169056.jpeg",
+      "rating": 4.8,
+      "progress": 0.0
+    },
+    {
+      "id": "tr4",
+      "title": "Web Design from Scratch",
+      "instructor": "Huda Nasser",
+      "imageUrl": "https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg",
+      "rating": 4.6,
+      "progress": 0.0
+    },
+    {
+      "id": "tr5",
+      "title": "CCNA Routing & Switching",
+      "instructor": "Eng. Samer",
+      "imageUrl": "https://images.pexels.com/photos/325229/pexels-photo-325229.jpeg",
+      "rating": 4.5,
+      "progress": 0.0
+    },
+    {
+      "id": "tr6",
+      "title": "Secure Coding Principles",
+      "instructor": "Maya Faris",
+      "imageUrl": "https://images.pexels.com/photos/60504/pexels-photo-60504.jpeg",
+      "rating": 4.7,
+      "progress": 0.0
+    }
+  ]
+}
